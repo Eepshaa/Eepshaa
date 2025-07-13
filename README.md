@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eepsha
-- 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning Python, Skitlearn
+- 👀 I’m interested in Artificial Intelligence and bridging the gap between a user and a machine.
+
   
 
 
